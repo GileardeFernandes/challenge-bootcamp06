@@ -1,2 +1,2 @@
-backend/node_modules
-.giignore
+node_modules
+.gitignore
